@@ -1,0 +1,26 @@
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    padding: 0 20px;
+    box-sizing: border-box;
+    background-color: var(--roxo);
+}
+
+
+.paragrafo{
+    color: var(--dourado);
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.imagem{
+    width: 25%;
+}
+
+.tituloBanner{
+    color: var(--dourado);
+    font-weight: 700;
+}

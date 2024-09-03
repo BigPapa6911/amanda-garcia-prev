@@ -1,0 +1,13 @@
+.header {
+    background-color: var(--roxo);
+    display: flex;
+    padding: 8px 4px;
+    color: var(--dourado);
+    position: relative;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Sombra aplicada diretamente */
+    position: relative;
+}
+
+.link{
+    padding:16px;
+}
